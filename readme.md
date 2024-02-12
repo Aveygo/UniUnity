@@ -20,7 +20,7 @@ Given a list of student ids and id preferences, this application tries to find t
  - Bitshifting and ugly pointer management
  - No (known) memory leaks
 
-As you can probably already guess, this was more of an "introduction project" to using C - Don't expect it to make toast or do backflips. Written 100% by yours truly as part of a 5 person group project. Yes, all 3678 lines.
+As you can probably already guess, this was more of an "introduction project" to using C - Don't expect it to make toast or do backflips. Written 100% by yours truly as part of a 4 person group project. Yes, all 3678 lines.
 
 ## Running
 
